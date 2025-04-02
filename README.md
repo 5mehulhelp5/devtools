@@ -57,6 +57,6 @@ To get notified about the releases, just watch this repo:
 
 Want to discuss something? 
 - Use the [Discussions](https://github.com/alpine-pro/devtools/discussions) tab
-- Use live chat on [talpinejs.pro](https://alpinejs.pro/contact)
+- Use live chat on [alpinejs.pro](https://alpinejs.pro/contact)
 - PM me on [LinkedIn](https://www.linkedin.com/in/igloczek/).
 
